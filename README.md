@@ -1,14 +1,14 @@
 # Hi there 👋
 
-## ✨ About Me
+## ✨ I am Catherine Zhou
 
-👩‍💻 I am Catherine Zhou, a passionate Web Developer craving to provide users with a delightful online journey.
+👩‍💻 A passionate **Web Developer** craving to provide users with a delightful online journey.
 
-🎓 Currently pursuing Master's Degree in Information Science at University of Michigan, Ann Arbor.
+🎓 Currently pursuing Master's Degree in **Information Science** at University of Michigan, Ann Arbor.
 
-🌱 Actively learning JavaScript and popular front-end frameworks like React.
+🌱 Actively learning **JavaScript** and popular front-end frameworks like **React**.
 
-🏂 Outside the tech world, I enjoy snowboarding in winter and hiking in summer time.
+🏂 Outside the tech world, I enjoy **snowboarding** in winter and **hiking** in summer time.
 
 ## 🛠️ My Toolkit
 
