@@ -2,34 +2,34 @@
 
 ## ✨ I am Catherine Zhou
 
-👩‍💻 A passionate **Web Developer** craving to provide users with a delightful online journey.
+👩‍💻 A passionate _**Web Developer**_ craving to provide users with a delightful online journey.
 
-🎓 Currently pursuing Master's Degree in **Information Science** at University of Michigan, Ann Arbor.
+🎓 Currently pursuing Master's Degree in _**Information Science**_ at University of Michigan, Ann Arbor.
 
-🌱 Actively learning **JavaScript** and popular front-end frameworks like **React**.
+🌱 Actively learning _**JavaScript**_ and popular front-end frameworks like _**React**_.
 
-🏂 Outside the tech world, I enjoy **snowboarding** in winter and **hiking** in summer time.
+🏂 Outside the tech world, I enjoy _**snowboarding**_ in winter and _**hiking**_ in summer time.
 
 ## 🛠️ My Toolkit
 
-<li>
-  Programming Languages:
+
+- **Programming Languages:**
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python badge">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white" alt="Java badge">
-</li>
-<li>
-  Frameworks:
+
+
+- **Frameworks:**
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React badge">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js badge">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django badge">
-</li>
-<li>
-  Designs:
+
+
+- **Designs:**
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma badge">
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="adobephotoshop badge">
   <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="adobeillustrator badge">
-</li>
+
 
 ## 🔍 Let's Connect:
 
